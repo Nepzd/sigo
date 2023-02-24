@@ -19,6 +19,7 @@
 </head>
 
 <body>
+<p>Test new valeus</p>
     <nav class="navbar navbar-light navbar-expand-md py-3">
         <div class="container"><a class="navbar-brand d-flex align-items-center" href="#"></a><img
                 src="{{ asset('import/assets/img/Logo.png')}}"><button data-bs-toggle="collapse" class="navbar-toggler"
